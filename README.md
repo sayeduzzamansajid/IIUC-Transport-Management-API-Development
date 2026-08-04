@@ -490,6 +490,3 @@ If you want to contribute to this project:
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` file if included or contact project maintainers for details.
