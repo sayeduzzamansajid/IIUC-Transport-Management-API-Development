@@ -466,8 +466,8 @@ If you want to contribute to this project:
 1. **Fork the Repository**: Click the `Fork` button at the top right of the GitHub repository page.
 2. **Clone your Forked Repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Bus-Management-System-SD-1.git
-   cd Bus-Management-System-SD-1
+   git clone https://github.com/sayeduzzamansajid/IIUC-Transport-Management-API-Development
+   cd IIUC-Transport-Management-API-Development
    ```
 3. **Create a Feature Branch**:
    ```bash
