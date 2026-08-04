@@ -490,7 +490,4 @@ If you want to contribute to this project:
 
 ---
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 9347e69 (Updated-TOC)
