@@ -20,7 +20,6 @@ A high-performance RESTful Web API built with **Spring Boot** and **Java 17** fo
   - [Testing Endpoints (cURL Examples)](#testing-endpoints-curl-examples)
   - [Testing via Postman / Insomnia](#testing-via-postman--insomnia)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
